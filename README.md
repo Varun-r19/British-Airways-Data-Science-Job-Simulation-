@@ -4,7 +4,7 @@ This project scrapes customer reviews for British Airways from the AirlineQualit
 
 ## Features
 
-- Web scraping of British Airways reviews from [AirlineQuality.com](AirlineQuality.com)
+- Web scraping of British Airways reviews from [AirlineQuality.com]([AirlineQuality.com](https://www.airlinequality.com/airline-reviews/british-airways))
 - Pagination handling to collect reviews from multiple pages
 - Basic data cleaning and preprocessing of reviews
 - Storage of reviews in a pandas DataFrame for further analysis
